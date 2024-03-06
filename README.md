@@ -31,6 +31,9 @@ Visualization of planet orbits using Pygame graphics.
 
 **Drawing**: Renders each planet as a colored circle on the Pygame window. The orbit of each planet is also visualized using lines. Text displaying the distance from each planet to the Sun is overlaid on the simulation.
 
+![Screen Shot 2024-03-05 at 8 43 33 PM](https://github.com/Jamal-Dabari/Python-Planet-Simulator/assets/146998697/e50dc3e7-df7b-40fa-8257-a14694fb860f)
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Users/jamaldabari/Desktop/Screen\ Shot\ 2024-03-05\ at\ 8.43.33\ PM.png">

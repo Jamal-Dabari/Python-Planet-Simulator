@@ -17,11 +17,21 @@ Visualization of planet orbits using Pygame graphics.
 
 ### How It Works
 
-Initialization: The Pygame library is initialized, and essential constants and variables are defined.
-Planet Class: Defines a Planet class representing individual celestial bodies. Each planet has attributes like position, radius, color, mass, velocity, and methods for drawing and updating its position.
-Main Function: Sets up the main simulation loop. It creates instances of planets with specific properties like position, mass, and velocity. The simulation loop updates the positions of planets based on gravitational interactions and redraws them on the screen.
-Simulation Loop: The simulation runs within a while loop until the user quits the window. Inside the loop, it updates the positions of planets and redraws them on the screen. The loop also handles user events such as quitting the application.
-Planetary System: Several planets are instantiated with different properties, orbiting around the Sun. These planets include Earth, Mars, Mercury, Venus, and Jupiter.
-Gravitational Interactions: Planets exert gravitational forces on each other, causing them to accelerate and follow curved trajectories.
-Drawing: Renders each planet as a colored circle on the Pygame window. The orbit of each planet is also visualized using lines. Text displaying the distance from each planet to the Sun is overlaid on the simulation.
+**Initialization**: The Pygame library is initialized, and essential constants and variables are defined.
 
+**Planet Class**: Defines a Planet class representing individual celestial bodies. Each planet has attributes like position, radius, color, mass, velocity, and methods for drawing and updating its position.
+
+**Main Function**: Sets up the main simulation loop. It creates instances of planets with specific properties like position, mass, and velocity. The simulation loop updates the positions of planets based on gravitational interactions and redraws them on the screen.
+
+**Simulation Loop**: The simulation runs within a while loop until the user quits the window. Inside the loop, it updates the positions of planets and redraws them on the screen. The loop also handles user events such as quitting the application.
+
+**Planetary System**: Several planets are instantiated with different properties, orbiting around the Sun. These planets include Earth, Mars, Mercury, Venus, and Jupiter.
+
+**Gravitational Interactions**: Planets exert gravitational forces on each other, causing them to accelerate and follow curved trajectories.
+
+**Drawing**: Renders each planet as a colored circle on the Pygame window. The orbit of each planet is also visualized using lines. Text displaying the distance from each planet to the Sun is overlaid on the simulation.
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/Users/jamaldabari/Desktop/Screen\ Shot\ 2024-03-05\ at\ 8.43.33\ PM.png">
+</picture>
